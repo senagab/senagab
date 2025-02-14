@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Gabriel!
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/senakai/) [![Pinterest](https://img.shields.io/badge/Pinterest-434343.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://br.pinterest.com/senagab/) [![Email](https://img.shields.io/badge/Email-696969?logo=gmail&logoColor=white)](mailto:dev.gabrielsena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/senakai/) [![Email](https://img.shields.io/badge/Email-696969?logo=gmail&logoColor=white)](mailto:dev.gabrielsena)
 
 # Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
